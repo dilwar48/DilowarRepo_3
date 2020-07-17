@@ -7,9 +7,7 @@
 
 public class hello{
     public static void method01(){
-        string tempvar = 'Enter_your_name_here';
-        System.debug('Hello World!');
-        System.debug('My name is ' + tempvar);
+        system.debug('Test 11');
     }
 }
 
