@@ -8,8 +8,10 @@
 public class hello{
     public static void method01(){
         system.debug('Test 11');
-        String s = 'ABC';
-        system.debug('S value is:' +s);
+        String s1 = 'ABC';
+        system.debug('S1 value is:' +s1);
+        String s2 = 'XYZ';
+        system.debug('S2 value is:' +s2);
     }
 }
 
